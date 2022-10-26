@@ -1,2 +1,2 @@
 # analogClock
-Created with CodeSandbox
+Analog react clock with animation
